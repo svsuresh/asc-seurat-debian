@@ -1,4 +1,4 @@
-This repo is forked from [asc seurat](https://github.com/KirstLab/asc_seurat). Following changes were made to the Docker and code:
+This repo is forked from **[asc seurat]**(https://github.com/KirstLab/asc_seurat). Following changes were made to the Docker and code:
 
 1. Debian repositories were changed from "unstable/testing" to "bookworm"
 2. DESeq2 is added as statistical method
